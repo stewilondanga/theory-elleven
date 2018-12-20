@@ -99,11 +99,11 @@ a {
   margin: 0 0 1rem 0;
 }
 
-/*.form-field:focus-within label {
+.form-field:focus-within label {
   color: white;
 }
 
-label {
+/*label {
   display: block;
   text-align: left;
   color: #7C7C7C;
