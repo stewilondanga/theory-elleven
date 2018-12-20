@@ -44,23 +44,26 @@ main {
   width: 600px;
 }
 
-/*@media (max-width: 610px) {
+@media (max-width: 610px) {
   main {
     width: 320px;
   }
+
   main form {
     padding: 2rem;
   }
+
   main nav {
     display: flex;
     justify-content: space-between;
   }
+
   main nav a {
     margin: 0;
   }
 }
 
-h1 {
+/*h1 {
   font-family: 'Crimson Text', serif;
   font-size: 3.4rem;
   letter-spacing: -0.06rem;
