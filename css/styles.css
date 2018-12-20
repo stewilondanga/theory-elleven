@@ -1,3 +1,10 @@
+:root {
+  --brown: #AA8B59;
+  --gray: rgb(14, 19, 25);
+  --gray--t: rgba(14, 19, 25, 0);
+  --body-font: 'Josefin Sans', sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,12 +28,6 @@
   height: 1.5em;
 }
 
-:root {
-  --brown: #AA8B59;
-  --gray: rgb(14, 19, 25);
-  --gray--t: rgba(14, 19, 25, 0);
-  --body-font: 'Josefin Sans', sans-serif;
-}
 
 * {
   box-sizing: border-box;
