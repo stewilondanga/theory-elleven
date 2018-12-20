@@ -63,13 +63,13 @@ main {
   }
 }
 
-/*h1 {
+h1 {
   font-family: 'Crimson Text', serif;
   font-size: 3.4rem;
   letter-spacing: -0.06rem;
 }
 
-form {
+/*form {
   border: 7px double #AA8B59;
   padding: 3rem;
 }
