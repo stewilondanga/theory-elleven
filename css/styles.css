@@ -95,10 +95,11 @@ a {
   text-decoration: none;
 }
 
-/*.form-field {
+.form-field {
   margin: 0 0 1rem 0;
 }
-.form-field:focus-within label {
+
+/*.form-field:focus-within label {
   color: white;
 }
 
