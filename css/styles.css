@@ -109,14 +109,15 @@ label {
   color: #7C7C7C;
 }
 
-/*input {
+input {
   width: 100%;
   background: none;
   color: white;
   border: 2px solid #7C7C7C;
   padding: 1.5rem;
 }
-input:focus {
+
+/*input:focus {
   border-color: white;
   outline: 0;
 }
