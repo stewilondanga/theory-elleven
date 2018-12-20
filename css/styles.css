@@ -117,12 +117,12 @@ input {
   padding: 1.5rem;
 }
 
-/*input:focus {
+input:focus {
   border-color: white;
   outline: 0;
 }
 
-.button {
+/*.button {
   background: var(--brown);
   color: white;
   border: 0;
